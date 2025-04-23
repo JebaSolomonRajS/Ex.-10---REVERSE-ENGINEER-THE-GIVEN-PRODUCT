@@ -29,6 +29,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 ### Output:
 ![EMPD-Axial Wheel](https://github.com/user-attachments/assets/cb22c0c5-c0fc-4dbd-820c-e10e0e098bd1)
+![EMPD-Axial Wheel Cura](https://github.com/user-attachments/assets/5e509024-b9f2-407b-8fa7-d7f922c016a7)
 
 
 ### Name: Jeba Solomon Raj S
